@@ -1,0 +1,3 @@
+name: aws-basic-security-checker
+runtime: nodejs
+description: DevOpsBox AWS basic security checker
